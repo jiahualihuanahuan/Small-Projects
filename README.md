@@ -1,3 +1,4 @@
 # Small-Projects
 
-Tower of Hanoi 
+Calculating Pi: 
+Tower of Hanoi:
